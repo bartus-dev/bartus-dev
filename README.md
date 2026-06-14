@@ -1,12 +1,16 @@
-# 📱 Nauka programowania
+# 📱 Learning to Program
 
-Repozytorium z moimi ćwiczeniami z Pythona.
+A repository of my Python exercises.
 
-## 🤔 Co tu jest
-- podstawowe zadania z Pythona
-- projekty z Pythona
+## 🤔 What's here?
+- Basic Python exercises
+- Python projects
 
-## 🎯 Cel
-Systematyczna nauka programowania.
+## 🎯 Goal
+Systematic learning of programming.
+
+## 📕 Interests
+- Machine Learning
+- Artificial Intelligence
 
 ##
